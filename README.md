@@ -9,12 +9,12 @@ https://sites.google.com/brandeis.edu/venus-and-her-satellites/home
 
 - There is no time limit for the first level(Seriously, who will take that 500s to complete?). With a starting score of 5, the player needs to reach 10 to win. Red obstacles will   result in -1 score and green ball will have score +1.
 
-![alt text](https://user-images.githubusercontent.com/33770924/111573376-c7a56100-8780-11eb-86d0-40996a36197f.png)
+![image](https://user-images.githubusercontent.com/33770924/111573376-c7a56100-8780-11eb-86d0-40996a36197f.png)
 
    
    
   
-**level 2 Racing car on the race track **
+**level 2 Racing car on the race track**
 - To win the game, gain at least 5 scores on the road, drive the car towards the destination and hit the red wall to declare victory with 150 seconds. Hitting yellow cones will     gain 1 score; hitting the red cones will lose 1 car health.  If you run out of car health or fall down from the track, you lose this level.
 ![image](https://user-images.githubusercontent.com/33770924/111573425-e60b5c80-8780-11eb-8f69-153d6bf9513b.png)
 
