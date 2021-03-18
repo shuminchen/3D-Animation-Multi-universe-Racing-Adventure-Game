@@ -7,7 +7,7 @@ https://sites.google.com/brandeis.edu/venus-and-her-satellites/home
 
 **level 1**
 Racing fish on a grass track.
-  There is no time limit for the first level(Seriously, who will take that 500s to complete?). With a starting score of 5, the player needs to reach 10 to win. Red obstacles will   result in -1 score and green ball will have score +1.
+-There is no time limit for the first level(Seriously, who will take that 500s to complete?). With a starting score of 5, the player needs to reach 10 to win. Red obstacles will   result in -1 score and green ball will have score +1.
 ![image](https://user-images.githubusercontent.com/33770924/111573376-c7a56100-8780-11eb-86d0-40996a36197f.png)
 
  
