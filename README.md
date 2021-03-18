@@ -3,8 +3,8 @@
 This is a 3D animation game which users can take a multi-universe racing adventure. Each level of the game is in its own universe where users can experience different styles of racing adventures. And of course, the level becomes harder as you go, but the fun remains the same!
 
 ![image](https://user-images.githubusercontent.com/33770924/111573376-c7a56100-8780-11eb-86d0-40996a36197f.png)
-**level 1**
-Racing fish on a grass track.
+-**level 1**
+--Racing fish on a grass track.
   There is no time limit for the first level(Seriously, who will take that 500s to complete?). With a starting score of 5, the player needs to reach 10 to win. Red obstacles will   result in -1 score and green ball will have score +1. 
 
 ![image](https://user-images.githubusercontent.com/33770924/111573425-e60b5c80-8780-11eb-8f69-153d6bf9513b.png)
