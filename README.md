@@ -1,6 +1,6 @@
 # 3D-Animation-Multi-universe-Racing-Adventure-Game
 
-This is a 3D animation game which users can take a multi-universe racing adventure. Each level of the game is in its own universe where users can experience different styles of racing adventures. And of course, the level becomes harder as you go, but the fun remains the same!
+This is a 3D animation game where users can take a multi-universe racing adventure. Each level of the game is in its own universe where users can experience different styles of racing adventures. And of course, the level becomes harder as you go, but the fun remains the same!
 
 **Links to the game**
 https://sites.google.com/brandeis.edu/venus-and-her-satellites/home
